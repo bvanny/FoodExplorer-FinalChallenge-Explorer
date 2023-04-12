@@ -13,7 +13,7 @@ export function Footer() {
                 </Logo>
 
                 <p>
-                    © 2022 - Todos os direitos reservados.
+                    Developed by Bruno Geovanny © 2023 - Todos os direitos reservados.
                 </p>
 
             </Content>
