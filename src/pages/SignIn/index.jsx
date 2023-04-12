@@ -41,7 +41,7 @@ export function SignIn() {
                         <div className="inputs">
                             <p>Email</p>
                             <Input
-                                placeholder="Exemplo: Bruno Geovanny"
+                                placeholder="Exemplo: bruno@email.com"
                                 type="text"
                                 onChange={e => setEmail(e.target.value)}
                             />
