@@ -33,7 +33,13 @@ A aplicação que desenvolvemos é um cardápio digital para um restaurante fict
 
 ## :eyeglasses: Deploy
 
-You can view the project at this link [FoodExplorer](https://food-explorer-brunogeovanny.netlify.app/)
+You can view the project at this link [FoodExplorer](https://foodexplorer-bruno-geovanny.netlify.app/)
+
+## Como se logar como admin
+```bash
+  Login: admin@explorer.com
+  Senha: 123456
+```
 
 ## Como executar o Back
 ```bash
