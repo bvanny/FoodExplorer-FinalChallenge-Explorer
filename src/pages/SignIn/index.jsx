@@ -1,4 +1,4 @@
-import { Container, Form, Logo } from "./styles";
+mimport { Container, Form, Logo } from "./styles";
 
 import { ThemeProvider } from 'styled-components';
 import GlobalStyles from '../../styles/global'
@@ -41,7 +41,7 @@ export function SignIn() {
                         <div className="inputs">
                             <p>Email</p>
                             <Input
-                                placeholder="Exemplo: bruno@email.com"
+                                placeholder="Exemplo: exemplo@email.com"
                                 type="text"
                                 onChange={e => setEmail(e.target.value)}
                             />
